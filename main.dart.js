@@ -89937,7 +89937,7 @@ m=A.b([A.aB(["role","system","content",a1],g,g)],t.m0)
 J.JA(m,a0)
 J.df(m,A.aB(["role","user","content",a],g,g))
 s=7
-return A.I(h.YI("/chat/completions",A.aB(["model","google/gemini-3.5-flash","messages",m],g,t.K),e,f),$async$w6)
+return A.I(h.YI("/chat/completions",A.aB(["model","google/gemini-2.5-flash-lite","messages",m],g,t.K),e,f),$async$w6)
 case 7:l=a3
 k=t.kc.a(J.bs(l.a,"choices"))
 m=k
